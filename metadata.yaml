@@ -1,0 +1,45 @@
+_repo: A-kontarsag-kultusza_72419
+_version: 0.0.1
+alternative_title: Le culte de l'incompétence. Hungarian
+contributor:
+  translator:
+    agent_name: Szánthó, Gyula
+    alias: Szantho, Gyula
+    gutenberg_agent_id: '56679'
+    url: http://www.gutenberg.org/2009/agents/56679
+creator:
+  author:
+    agent_name: Faguet, Émile
+    aliases:
+    - Faguet, Emile
+    - Faguet, Auguste-Émile
+    birthdate: 1847
+    deathdate: 1916
+    gutenberg_agent_id: '4528'
+    url: http://www.gutenberg.org/2009/agents/4528
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Émile_Faguet
+    - https://fr.wikipedia.org/wiki/%C3%89mile_Faguet
+description: ''
+gutenberg_issued: '2023-12-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72419'
+language: hu
+pgterms:marc905: 20231212071924faguet
+pgterms:marc906: '1919'
+pgterms:marc907: hu
+production_note: Albert László from page images generously made available by the Library
+  of the Hungarian Academy of Sciences
+publication_note: '  $aBudapest :$bFranklin-Társulat, $c1919.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Democracy'
+- !lcsh 'France -- Politics and government'
+- !lcsh 'Mental efficiency'
+- !lcc 'JC'
+- GITenberg
+title: A kontárság kultusza
+url: http://www.gutenberg.org/ebooks/72419
