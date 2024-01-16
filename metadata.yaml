@@ -7,6 +7,9 @@ contributor:
     alias: Szantho, Gyula
     gutenberg_agent_id: '56679'
     url: http://www.gutenberg.org/2009/agents/56679
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Faguet, Émile
@@ -21,6 +24,8 @@ creator:
     - https://en.wikipedia.org/wiki/Émile_Faguet
     - https://fr.wikipedia.org/wiki/%C3%89mile_Faguet
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72419#A-kontarsag-kultusza
 gutenberg_issued: '2023-12-15'
 gutenberg_type: Text
 identifiers:
